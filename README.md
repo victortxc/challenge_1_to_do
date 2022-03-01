@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>To.do</h1>
+    <h1>To do list in React Native</h1>
 </div>
 
 <p align="center">
@@ -11,9 +11,9 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=32B768" alt="License">
   
-  <img src="https://img.shields.io/github/forks/victortxc/challenge_1_to_do_list?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
+  <img src="https://img.shields.io/github/forks/victortxc/challenge_1_to_do_list_RN?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/victortxc/challenge_1_to_do_list?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
+  <img src="https://img.shields.io/github/stars/victortxc/challenge_1_to_do_list_RN?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
 </p>
 
 <br>
@@ -28,7 +28,7 @@
 
 This project was developed using the following technologies:
 
--   [React JS](https://reactjs.org/)
+-   [React Native](https://reactnative.dev/)
 -   [TypeScript](https://www.typescriptlang.org/)
 
 ## 🚀 Getting started
@@ -36,7 +36,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/victortxc/challenge_1_to_do_list.git && cd github_web
+$ git clone https://github.com/victortxc/challenge_1_to_do_list_RN.git && cd challenge_1_to_do_list_RN
 ```
 
 Follow the steps below
@@ -51,7 +51,7 @@ $ yarn dev
 
 ## 💻 Project
 
-To do App.
+To do App in React Native.
 
 This is a project developed during the **[Ignite](https://rocketseat.com.br/ignite)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**.
 
