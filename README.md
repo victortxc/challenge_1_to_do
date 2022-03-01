@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
@@ -54,6 +55,12 @@ $ yarn dev
 To do App in React Native.
 
 This is a project developed during the **[Ignite](https://rocketseat.com.br/ignite)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**.
+
+## 🔖 Layout
+
+You can view the project layout through the links below:
+
+-   [Layout](https://www.figma.com/file/L442P4syOkbHGaLr4fGad4/to.do/duplicate?node-id=10485%3A499)
 
 ## 📝 License
 
