@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img alt="todo" src="public/todo.png">
+  <img alt="todo" src="assets/todo.png">
 </div>
 
 ---
