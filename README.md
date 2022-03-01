@@ -45,10 +45,10 @@ Follow the steps below
 
 ```bash
 # Install the dependencies
-$ npm install
+$ yarn install
 
 # Start the project
-$ yarn dev
+$ yarn run ios / yarn run android
 ```
 
 ## 💻 Project
